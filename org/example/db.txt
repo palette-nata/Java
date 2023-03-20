@@ -1,0 +1,9 @@
+000005 Laptop1 16 128 windows pink
+000006 Laptop2 32 256 android black
+000001 Laptop3 16 128 windows pink
+000002 Laptop4 32 256 mac black
+000003 Laptop5 16 128 windows silver
+000004 Laptop6 32 128 ubuntu yellow
+000007 Laptop7 64 256 mac black
+000008 Laptop8 16 128 windows pink
+000009 Laptop9 64 256 linux black
